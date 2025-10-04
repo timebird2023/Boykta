@@ -29,7 +29,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "7848268331:AAHzmuy87fcemSTKTmQkdDJtmhlS3F5C7PI")
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "7848268331:AAGbJTjEvNlVzmAYOZfZJlKAjJNG2qBoOnY")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "7401831506"))
 REQUIRED_CHANNEL = os.getenv("REQUIRED_CHANNEL", "@boyta28")
 
