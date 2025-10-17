@@ -1,2 +1,12 @@
-python-telegram-bot
+python-telegram-bot 
+flask 
 requests
+Pillow
+pyttesseract
+arabic-respaher 
+python-bidi
+numpy 
+scipy
+sympy
+PyPDF2 
+python-docx
