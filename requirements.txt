@@ -2,9 +2,6 @@ python-telegram-bot
 flask 
 requests
 Pillow
-pyttesseract
-arabic-respaher 
-python-bidi
 numpy 
 scipy
 sympy
